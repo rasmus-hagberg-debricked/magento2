@@ -534,7 +534,7 @@
         },
         {
             "name": "elasticsearch/elasticsearch",
-            "version": "v6.8.3",
+            "version": "v6.8.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/elastic/elasticsearch-php.git",
